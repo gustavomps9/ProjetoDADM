@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "433911927956",
+    "firebase_url": "https://projetodisp-23c9a-default-rtdb.firebaseio.com",
+    "project_id": "projetodisp-23c9a",
+    "storage_bucket": "projetodisp-23c9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433911927956:android:ad5bef84bc1913f03d9081",
+        "android_client_info": {
+          "package_name": "com.example.android_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433911927956-qig0dcng8rvhist16tujo28p61cddnbs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGY0bC4SbTdOgFr1U2CC1KadncOeUBQXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "433911927956-qig0dcng8rvhist16tujo28p61cddnbs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433911927956:android:786bcefc88fa6ccf3d9081",
+        "android_client_info": {
+          "package_name": "com.example.app_android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433911927956-qig0dcng8rvhist16tujo28p61cddnbs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGY0bC4SbTdOgFr1U2CC1KadncOeUBQXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "433911927956-qig0dcng8rvhist16tujo28p61cddnbs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433911927956:android:918cc144d13a7f6e3d9081",
+        "android_client_info": {
+          "package_name": "com.example.projetodispmoveis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433911927956-qig0dcng8rvhist16tujo28p61cddnbs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGY0bC4SbTdOgFr1U2CC1KadncOeUBQXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "433911927956-qig0dcng8rvhist16tujo28p61cddnbs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
